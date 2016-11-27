@@ -1,5 +1,5 @@
 # ChatRTC
-Peer to peer Chat App
+Peer to peer group chat App
 
 ## Features
 * Automatic Mesh Completion in P2P 
